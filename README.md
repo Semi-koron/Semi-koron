@@ -1,3 +1,4 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=Semi-koron&theme=tokyonight&margin-w=15)
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/131385868?v=4" align="center" height="60" width="60" />
 </div>  
