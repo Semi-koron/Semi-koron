@@ -60,7 +60,7 @@
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
-<a href="https://threejs.org/"target="_blank"><img style="margin: 10px" src="https://global.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_992x1000.png" alt="threejs" height="50" /></a>
+<a href="https://threejs.org/"target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/png-shadow-512/Three.js.png" alt="threejs" height="50" /></a>
 <a href="https://aframe.io/"target="_blank"><img style="margin: 10px" src="https://aframe.io/images/card.jpg?v2" alt="a-frame" height="50" /></a>
 </div>
 
